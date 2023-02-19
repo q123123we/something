@@ -6,3 +6,4 @@ def user_birthday(birthday):
     user_bd.append(birthday)
     print("Ваш день рождения: " + str(user_bd))
 user_birthday(birthday=user_birthday)
+1
